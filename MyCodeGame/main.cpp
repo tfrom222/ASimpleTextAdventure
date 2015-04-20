@@ -59,10 +59,9 @@ main::main()
 
 	//WriteFunnyThing();
 
-WriteFunnyThing("Text");
+	WriteFunnyThing("Text");
 	cin >> o;
 
-	
 
 }
 
